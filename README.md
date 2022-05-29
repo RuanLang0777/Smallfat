@@ -6,5 +6,4 @@ git clone https://github.com/RuanLang0777/Smallfat.git && cd Smallfat && go buil
 ## 加密流程
 Base64编码->反转->Base64编码->DES(CBC,PKCS5Padding)
 ## 为什么没有解密程序
-懒(加密顺序都有了，自己解密去!)
-
+懒
