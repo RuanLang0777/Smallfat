@@ -1,4 +1,4 @@
-# 请谨慎运行目前只对C:\Users目录白名单文件方式加密
+# 请谨慎运行目前只对C:\Users白名单文件方式加密
 ## 使用
 git clone https://github.com/RuanLang0777/Smallfat.git && cd Smallfat && go build
 ## 自定义加密文件
